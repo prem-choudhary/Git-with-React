@@ -1,11 +1,11 @@
 import "./App.css";
-import Vaildataion from "./components/vaildataions";
+import Vaildation from "./components/vaildations";
 
 function App() {
   return (
     <>
       
-        <Vaildataion />
+        <Vaildation />
       
     </>
   );
