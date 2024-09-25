@@ -1,13 +1,14 @@
-
-import './App.css'
+import "./App.css";
+import Vaildataion from "./components/vaildataions";
 
 function App() {
-
   return (
     <>
-     <h1>form vaildataion</h1>
+      
+        <Vaildataion />
+      
     </>
-  )
+  );
 }
 
-export default App
+export default App;
