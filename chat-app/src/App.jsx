@@ -1,16 +1,16 @@
+// src/App.jsx
+// import React from 'react';
+import './App.css';
+import Chat from './chat';
 
-import './App.css'
 
 function App() {
-
   return (
-    <>
-      <h1>👋 Hello Jethalal</h1>
-      <div>
-        
-      </div>
-    </>
-  )
+    <div className="App">
+      <Chat/>
+    </div>
+  );
 }
 
-export default App
+export default App;
+
